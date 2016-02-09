@@ -1,0 +1,29 @@
+name: Marjolyn
+favicon: null
+layout_spectrum: 0.3311582060996443
+typography_spectrum: 0.09752406412735581
+title: Exploring the creative side of life and love
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.0555795191321522
+  lightness: 0.503669525962323
+  saturation: 0.4332148702815175
+  rhythmicContrast: 0.22842936334200203
+purpose: []
