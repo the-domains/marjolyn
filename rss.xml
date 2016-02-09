@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Marjolyn]]></title>
         <description><![CDATA[Marjolyn]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marjolyn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 12:58:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 12:59:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marjolyn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3af89cb0-040a-40e2-9993-e4e802357da5.jpg">]]></description>
+            <link>https://thegrid.ai/marjolyn/a6b418e0-7624-4322-824e-9c6e675796e9/index.html</link>
+            <guid isPermaLink="false">a6b418e0-7624-4322-824e-9c6e675796e9</guid>
+            <pubDate>Tue, 09 Feb 2016 12:59:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rainbow Magic Dragon]]></title>
             <description><![CDATA[<article><h1>Rainbow Magic Dragon</h1><p>Drawing is what I like to do </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3107504137f41a22e678b462a642764b3757398f.jpg"></article>]]></description>
-            <link>undefinedrainbow-magic-dragon/index.html</link>
+            <link>https://thegrid.ai/marjolyn/rainbow-magic-dragon/index.html</link>
             <guid isPermaLink="false">9bddab2b-bc6d-41c3-a07f-db5a3f2557a5</guid>
             <pubDate>Tue, 09 Feb 2016 12:57:55 GMT</pubDate>
         </item>
